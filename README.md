@@ -1,6 +1,11 @@
 ### ☕👨‍💻 Focus Mode: ON
 #### آریا — مهندس نرم‌افزار | عاشق نظم و خلق سیستم‌های هوشمند
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Coffee](https://img.shields.io/badge/Coffee-6F4E37?style=for-the-badge&logo=coffee&logoColor=white)
+
+
 ![Profile Views](https://komarev.com/ghpvc/?username=yoosefi1997&style=for-the-badge)
 
 ---
